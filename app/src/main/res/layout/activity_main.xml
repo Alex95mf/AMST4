@@ -19,10 +19,12 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="#65FFFFFF"
         android:text="@string/ventana"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:visibility="visible"
-        tools:layout_editor_absoluteX="168dp"
-        tools:layout_editor_absoluteY="251dp"
+        tools:layout_editor_absoluteX="128dp"
+        tools:layout_editor_absoluteY="92dp"
         tools:text="Ventana" />
 
 </android.support.constraint.ConstraintLayout>

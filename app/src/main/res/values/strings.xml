@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AMST[4]</string>
+    <string name="textview">TextView</string>
 </resources>

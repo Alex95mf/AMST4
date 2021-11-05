@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
         <entry key="..\:/Archivos/AndroidStudioProjects/AMST4/app/src/main/res/layout/activity_calendar.xml" value="0.1" />
         <entry key="..\:/Archivos/AndroidStudioProjects/AMST4/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+=======
+        <entry key="..\:/practicas/app/AMST4/app/src/main/res/layout/activity_main.xml" value="0.25" />
+>>>>>>> 665978753370ed1872c5bc0f43958bd342deb367
       </map>
     </option>
   </component>

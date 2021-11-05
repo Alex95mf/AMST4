@@ -10,4 +10,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    /*final FloatingActionButton map_btn = (FloatingActionButton) findViewById(R.id.map_btn);
+    map_btn.setOnClickListener((view) -> {
+        Intent intent = new Intent (packageContext: MainActivity.this. Maps.class);
+        startActivity(intent);
+    });*/
 }
